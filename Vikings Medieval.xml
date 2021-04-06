@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModList>
+	<Name>Vikings Medieval</Name>
+	<modIds>
+		<li>brrainz.harmony</li>
+		<li>ludeon.rimworld</li>
+		<li>fluffy.modmanager</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>nif.toolbox</li>
+		<li>com.bymarcin.architecticons</li>
+		<li>automatic.bionicicons</li>
+		<li>automatic.recipeicons</li>
+		<li>caesarv6.damageindicators</li>
+		<li>jaxe.bubbles</li>
+		<li>dubwise.dubsmintmenus</li>
+		<li>dubwise.dubsmintminimap</li>
+		<li>gguake.ui.simplesearchbar</li>
+		<li>brrainz.cameraplus</li>
+		<li>darthsergeant.nursejob</li>
+		<li>frozensnowfox.complexjobslegacy</li>
+		<li>fluffy.worktab</li>
+		<li>notfood.researchpal</li>
+		<li>falconne.bwm</li>
+		<li>kamikatze.materialfilter</li>
+		<li>mlie.stockpilestacklimit</li>
+		<li>unlimitedhugs.defensivepositions</li>
+		<li>pathavoid.kv.rw</li>
+		<li>avius.locks</li>
+		<li>lordrevonworc.uninstallcore.1.1</li>
+		<li>erdelf.minifyeverything</li>
+		<li>tradingspot.kv.rw</li>
+		<li>fluffy.areaunlocker</li>
+		<li>gguake.areaninclusionexclusion</li>
+		<li>brrainz.achtung</li>
+		<li>voult.betterpawncontrol</li>
+		<li>oblitus.animalslogic</li>
+		<li>vanya.tools.incidentpersonstat</li>
+		<li>mehni.numbers</li>
+		<li>krafs.levelup</li>
+		<li>unlimitedhugs.allowtool</li>
+		<li>navyseal5.moreharvestdesignators</li>
+		<li>jamaicancastle.shoo</li>
+		<li>com.github.alandariva.moreplanning</li>
+		<li>khamenman.armorracks</li>
+		<li>nif.architectexpanded.fences</li>
+		<li>telkir.tmods.morefloors</li>
+		<li>jaxxa.ed.embrasures</li>
+		<li>cucumpear.storage</li>
+		<li>vanillaexpanded.vappe</li>
+		<li>vanillaexpanded.varme</li>
+		<li>linkolas.linkabledoors</li>
+		<li>syrchalis.terrain</li>
+		<li>syrchalis.glowinghealroot</li>
+		<li>owlchemist.bettervanillamasking</li>
+		<li>vanillaexpanded.vtexe</li>
+		<li>showhair.kv.rw</li>
+		<li>vanillaexpanded.vhe</li>
+		<li>vanillaexpanded.vhe.beards</li>
+		<li>ogre.ogrestack</li>
+		<li>arandomkiwi.huntforme</li>
+		<li>saucypigeon.wildcultivation</li>
+		<li>avilmask.grazinglands</li>
+		<li>neceros.plantgrowthsync</li>
+		<li>mlie.morefactioninteraction</li>
+		<li>albion.goexplore</li>
+		<li>mlie.xndtinytweaks</li>
+		<li>syrchalis.stonerebalance</li>
+		<li>crlsniper.realisticrooms</li>
+		<li>frozensnowfox.filthvanisheswithrainandtime</li>
+		<li>syrchalis.setupcamp</li>
+		<li>syrchalis.neuter</li>
+		<li>consolidatedtraits.kv.rw</li>
+		<li>troopersmith1.deathrattle</li>
+		<li>dninemfive.pepinyourstep</li>
+		<li>jelly.pleasehaulperishables</li>
+		<li>com.rimworld.nales.overcappedaccuracy</li>
+		<li>moretraitslots.kv.rw</li>
+		<li>notfood.morethancapable</li>
+		<li>ratys.madskills</li>
+		<li>brrainz.justignoremepassing</li>
+		<li>codeoptimist.jobsofopportunity</li>
+		<li>mlie.pickupandhaul</li>
+		<li>petetimessix.simplesidearms</li>
+		<li>uuugggg.sharetheload</li>
+		<li>uuugggg.roomfood</li>
+		<li>dninemfive.qualitycooldown</li>
+		<li>syrchalis.harvestyieldpatch</li>
+		<li>avilmask.commonsense</li>
+		<li>mlie.xndadrenaline</li>
+		<li>n7huntsman.ceramics</li>
+		<li>notfood.seedsplease</li>
+		<li>roolo.giddyupcore</li>
+		<li>roolo.giddyuprideandroll</li>
+		<li>roolo.giddyupcaravan</li>
+		<li>roolo.giddyupbattlemounts</li>
+		<li>sarg.giddyupsaddles</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+		<li>vanillaexpanded.vbookse</li>
+		<li>vanillaexpanded.vplantse</li>
+		<li>vanillaexpanded.vcooke</li>
+		<li>vanillaexpanded.vcookestews</li>
+		<li>vanillaexpanded.vee</li>
+		<li>vanillaexpanded.vcef</li>
+		<li>vanillaexpanded.vfesecurity</li>
+		<li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
+		<li>vanillaexpanded.vwe</li>
+		<li>vanillaexpanded.vweg</li>
+		<li>vse.freyafierce</li>
+		<li>oskarpotocki.vfe.vikings</li>
+		<li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
+		<li>vanillaexpanded.vaebf</li>
+		<li>vanillaexpanded.vaeis</li>
+		<li>vanillaexpanded.vaet</li>
+		<li>neptimus7.progressrenderer</li>
+		<li>edb.preparecarefully</li>
+	</modIds>
+	<modNames>
+		<li>Harmony</li>
+		<li>Core</li>
+		<li>Mod Manager</li>
+		<li>HugsLib</li>
+		<li>ToolBox</li>
+		<li>Architect Icons</li>
+		<li>Bionic icons</li>
+		<li>Recipe icons</li>
+		<li>Damage Indicators [1.2]</li>
+		<li>Interaction Bubbles</li>
+		<li>Dubs Mint Menus</li>
+		<li>Dubs Mint Minimap</li>
+		<li>Simple Search Bar</li>
+		<li>Camera+</li>
+		<li>Nurse Job</li>
+		<li>[FSF] Complex Jobs (Legacy Version)</li>
+		<li>Work Tab</li>
+		<li>ResearchPal</li>
+		<li>Better Workbench Management</li>
+		<li>Material Filter</li>
+		<li>Stockpile Stack Limit (Continued)</li>
+		<li>Defensive Positions</li>
+		<li>[KV] Path Avoid</li>
+		<li>Locks</li>
+		<li>[1.1, 1.2] Uninstall Rimworld</li>
+		<li>MinifyEverything</li>
+		<li>[KV] Trading Spot</li>
+		<li>Area Unlocker</li>
+		<li>Area Inclusion &amp; Exclusion</li>
+		<li>Achtung!</li>
+		<li>Better Pawn Control</li>
+		<li>Animals Logic</li>
+		<li>Incident Person Stat</li>
+		<li>Numbers</li>
+		<li>Level Up!</li>
+		<li>Allow Tool</li>
+		<li>More Harvest Designators!</li>
+		<li>Shoo!</li>
+		<li>More Planning</li>
+		<li>Armor Racks</li>
+		<li>Architect Expanded - Fences</li>
+		<li>[T] MoreFloors</li>
+		<li>ED-Embrasures</li>
+		<li>Storage Solutions</li>
+		<li>Vanilla Apparel Expanded</li>
+		<li>Vanilla Armour Expanded</li>
+		<li>LinkableDoors (unofficial)</li>
+		<li>[SYR] Terrain</li>
+		<li>[SYR] Glowing Healroot</li>
+		<li>Better Vanilla Masking</li>
+		<li>Vanilla Textures Expanded</li>
+		<li>[KV] Show Hair With Hats or Hide All Hats</li>
+		<li>Vanilla Hair Expanded</li>
+		<li>Vanilla Hair Expanded - Beards</li>
+		<li>OgreStack</li>
+		<li>Hunt for Me</li>
+		<li>Wild Cultivation - Fan Update</li>
+		<li>Grazing Lands</li>
+		<li>Plant Growth Sync</li>
+		<li>More Faction Interaction (Continued)</li>
+		<li>Go Explore!</li>
+		<li>[XND] Tiny Tweaks (Continued)</li>
+		<li>[SYR] Stone Rebalance</li>
+		<li>Realistic Rooms</li>
+		<li>[FSF] Filth Vanishes With Rain And Time</li>
+		<li>[SYR] Set Up Camp</li>
+		<li>[SYR] Neuter</li>
+		<li>[KV] Consolidated Traits</li>
+		<li>Death Rattle Continued [1.2]</li>
+		<li>Pep In Your Step</li>
+		<li>Please Haul Perishables</li>
+		<li>Overcapped Accuracy</li>
+		<li>[KV] More Trait Slots</li>
+		<li>More Than Capable</li>
+		<li>Mad Skills</li>
+		<li>Just Ignore Me Passing</li>
+		<li>Jobs of Opportunity (While You're Up)</li>
+		<li>Pick Up And Haul (Continued)</li>
+		<li>Simple sidearms</li>
+		<li>Share The Load</li>
+		<li>Room Food</li>
+		<li>Quality Cooldown</li>
+		<li>[SYR] Harvest Yield</li>
+		<li>Common Sense</li>
+		<li>[XND] Adrenaline! (Continued)</li>
+		<li>Ceramics</li>
+		<li>SeedsPlease</li>
+		<li>Giddy-up! Core</li>
+		<li>Giddy-up! Ride and Roll</li>
+		<li>Giddy-up! Caravan</li>
+		<li>Giddy-up! Battle Mounts</li>
+		<li>Giddy-Up! Add-on: Animal Saddles</li>
+		<li>Vanilla Expanded Framework</li>
+		<li>Vanilla Books Expanded</li>
+		<li>Vanilla Plants Expanded</li>
+		<li>Vanilla Cooking Expanded</li>
+		<li>Vanilla Cooking Expanded - Stews</li>
+		<li>Vanilla Events Expanded</li>
+		<li>Vanilla Fishing Expanded</li>
+		<li>Vanilla Furniture Expanded - Security</li>
+		<li>Vanilla Social Interactions Expanded</li>
+		<li>Vanilla Weapons Expanded</li>
+		<li>Vanilla Weapons Expanded - Grenades</li>
+		<li>Vanilla Storytellers Expanded - Freya Fierce</li>
+		<li>Vanilla Factions Expanded - Vikings</li>
+		<li>Vanilla Factions Expanded - Medieval</li>
+		<li>Vanilla Animals Expanded — Boreal Forest</li>
+		<li>Vanilla Animals Expanded — Ice Sheet</li>
+		<li>Vanilla Animals Expanded — Tundra</li>
+		<li>Progress Renderer</li>
+		<li>EdB Prepare Carefully</li>
+	</modNames>
+</ModList>
